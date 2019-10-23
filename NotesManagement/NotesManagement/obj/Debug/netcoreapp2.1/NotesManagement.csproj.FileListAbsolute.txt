@@ -1,0 +1,14 @@
+E:\Projects\NotesManagement\NotesManagement\obj\Debug\netcoreapp2.1\NotesManagement.csproj.CoreCompileInputs.cache
+E:\Projects\NotesManagement\NotesManagement\obj\Debug\netcoreapp2.1\NotesManagement.RazorAssemblyInfo.cache
+E:\Projects\NotesManagement\NotesManagement\obj\Debug\netcoreapp2.1\NotesManagement.RazorAssemblyInfo.cs
+E:\Projects\NotesManagement\NotesManagement\obj\Debug\netcoreapp2.1\NotesManagement.AssemblyInfoInputs.cache
+E:\Projects\NotesManagement\NotesManagement\obj\Debug\netcoreapp2.1\NotesManagement.AssemblyInfo.cs
+E:\Projects\NotesManagement\NotesManagement\bin\Debug\netcoreapp2.1\NotesManagement.deps.json
+E:\Projects\NotesManagement\NotesManagement\bin\Debug\netcoreapp2.1\NotesManagement.runtimeconfig.json
+E:\Projects\NotesManagement\NotesManagement\bin\Debug\netcoreapp2.1\NotesManagement.runtimeconfig.dev.json
+E:\Projects\NotesManagement\NotesManagement\bin\Debug\netcoreapp2.1\NotesManagement.dll
+E:\Projects\NotesManagement\NotesManagement\bin\Debug\netcoreapp2.1\NotesManagement.pdb
+E:\Projects\NotesManagement\NotesManagement\obj\Debug\netcoreapp2.1\NotesManagement.RazorTargetAssemblyInfo.cache
+E:\Projects\NotesManagement\NotesManagement\obj\Debug\netcoreapp2.1\NotesManagement.dll
+E:\Projects\NotesManagement\NotesManagement\obj\Debug\netcoreapp2.1\NotesManagement.pdb
+E:\Projects\NotesManagement\NotesManagement\obj\Debug\netcoreapp2.1\NotesManagement.csprojAssemblyReference.cache
